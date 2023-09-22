@@ -14,6 +14,7 @@ export default function Contact() {
       <div className="main contact-margin-top" id="contact">
         <div className="contact-div-main">
           <div className="contact-header">
+            <SocialMedia />
             <h1 className="heading contact-title">{contactInfo.title}</h1>
             <p
               className={
@@ -49,7 +50,7 @@ export default function Contact() {
               </a>
               <br />
               <br />
-              <SocialMedia />
+              {/* <SocialMedia /> */}
             </div>
           </div>
           <div className="contact-image-div">

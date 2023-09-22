@@ -1,6 +1,6 @@
 import React, {useContext} from "react";
 import "./Contact.scss";
-import SocialMedia from "../../components/socialMedia/SocialMedia";
+// import SocialMedia from "../../components/socialMedia/SocialMedia";
 import {illustration, contactInfo} from "../../portfolio";
 import {Fade} from "react-reveal";
 import email from "../../assets/lottie/email";
@@ -14,7 +14,6 @@ export default function Contact() {
       <div className="main contact-margin-top" id="contact">
         <div className="contact-div-main">
           <div className="contact-header">
-            <SocialMedia />
             <h1 className="heading contact-title">{contactInfo.title}</h1>
             <p
               className={

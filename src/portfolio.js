@@ -130,22 +130,14 @@ const educationInfo = {
       logo: require("./assets/images/isetN.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2021 - April 2024",
-      desc: "",
-      descBullets: [
-        "",
-        ""
-      ]
+      
     },
     {
       schoolName: "Mahmoud El Mesaadi Nabeul",
       logo: require("./assets/images/lmmn.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2018 - April 2021",
-       desc: "",
-      descBullets: [
-        "",
-        ""
-      ]
+      
 };
 
 // Your top 3 proficient stacks/tech experience

@@ -130,10 +130,10 @@ const educationInfo = {
       logo: require("./assets/images/isetN.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2021 - April 2024",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "",
+        ""
       ]
     },
     {
@@ -141,10 +141,11 @@ const educationInfo = {
       logo: require("./assets/images/lmmn.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2018 - April 2021",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    }
-  ]
+       desc: "",
+      descBullets: [
+        "",
+        ""
+      ]
 };
 
 // Your top 3 proficient stacks/tech experience

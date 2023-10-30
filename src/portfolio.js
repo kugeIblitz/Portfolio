@@ -130,13 +130,10 @@ const educationInfo = {
       logo: require("./assets/images/isetN.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2021 - April 2024",
-      desc: " ",
-      desc: "",
+      desc: "It is a higher education institution located in the city of Nabeul",
       descBullets: [
-        " ",
-        " "
-        "",
-        ""
+        "The main aim of IsetNabeul is to provide students with the knowledge and skills",
+        "The institution offers undergraduate and graduate programs in a variety of fields"
       ]
     },
     {
@@ -144,16 +141,10 @@ const educationInfo = {
       logo: require("./assets/images/lmmn.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2018 - April 2021",
-      desc: " ",
-      descBullets: [" "]
+      desc: "A public high school located in the city of Nabeul, Tunisia",
+      descBullets: ["The high school offers a comprehensive education to students in grades 9-12"]
     }
   ]
-       desc: "",
-      descBullets: [
-        "",
-        ""
-      ]
-      
 };
 
 // Your top 3 proficient stacks/tech experience
